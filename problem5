@@ -1,0 +1,14 @@
+public class problem5 {
+    public static void main(String[] args) {
+
+        int num = 10;
+        double decimal = 25.5;
+        char letter = 'A';
+        boolean status = true;
+
+        System.out.println(num);
+        System.out.println(decimal);
+        System.out.println(letter);
+        System.out.println(status);
+    }
+}
